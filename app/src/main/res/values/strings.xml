@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Formes Géométriques</string>
+    <string name="score_format">Score : %1$d/%2$d</string>
+    <string name="question_number_format">Question %1$d sur %2$d</string>
+    <string name="btn_next">Question suivante</string>
+    <string name="btn_view_results">Voir le résultat</string>
+    <string name="btn_replay">Rejouer</string>
+    <string name="feedback_correct">Bonne réponse !</string>
+    <string name="feedback_incorrect_format">Mauvaise réponse ! La bonne réponse est : %1$s.</string>
+    <string name="final_score_title">Quiz Terminé !</string>
+    <string name="final_score_format">Votre score final est de %1$d sur %2$d.</string>
+
+    <string name="desc_triangle">Triangle bleu à trois côtés</string>
+    <string name="desc_square">Carré rose à quatre côtés égaux</string>
+    <string name="desc_circle">Cercle vert parfaitement rond</string>
+    <string name="desc_star">Étoile jaune à cinq branches</string>
+    <string name="desc_rectangle">Rectangle violet à quatre côtés</string>
+</resources>
